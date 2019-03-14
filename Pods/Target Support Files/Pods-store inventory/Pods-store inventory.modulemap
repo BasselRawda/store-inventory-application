@@ -1,0 +1,6 @@
+module Pods_store_inventory {
+  umbrella header "Pods-store inventory-umbrella.h"
+
+  export *
+  module * { export * }
+}
